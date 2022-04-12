@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Home</title>
+<head>
+	<title>Home</title>
 <style>
 h1{
 text-align: center;
